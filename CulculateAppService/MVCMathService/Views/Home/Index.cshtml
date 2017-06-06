@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+@using (Html.BeginForm("Add","Home")) { 
+
+<input type="text" name="param1" placeholder="enter number" />
+<br />
+<input type="text" name="param2" placeholder="enter number" />
+    <br />
+<input type="submit"  value="Add"/>    
+    
+}

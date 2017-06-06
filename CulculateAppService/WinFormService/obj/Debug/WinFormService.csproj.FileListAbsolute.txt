@@ -1,0 +1,9 @@
+C:\vv\Project\CulculateAppService\WinFormService\obj\Debug\WinFormService.Form1.resources
+C:\vv\Project\CulculateAppService\WinFormService\obj\Debug\WinFormService.Properties.Resources.resources
+C:\vv\Project\CulculateAppService\WinFormService\obj\Debug\WinFormService.csproj.GenerateResource.Cache
+C:\vv\Project\CulculateAppService\WinFormService\bin\Debug\WinFormService.exe.config
+C:\vv\Project\CulculateAppService\WinFormService\bin\Debug\WinFormService.exe
+C:\vv\Project\CulculateAppService\WinFormService\bin\Debug\WinFormService.pdb
+C:\vv\Project\CulculateAppService\WinFormService\obj\Debug\WinFormService.exe
+C:\vv\Project\CulculateAppService\WinFormService\obj\Debug\WinFormService.pdb
+C:\vv\Project\CulculateAppService\WinFormService\obj\Debug\WinFormService.csprojResolveAssemblyReference.cache

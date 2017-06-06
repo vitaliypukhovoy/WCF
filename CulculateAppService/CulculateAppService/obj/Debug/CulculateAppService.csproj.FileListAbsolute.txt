@@ -1,0 +1,6 @@
+C:\vv\Project\CulculateAppService\CulculateAppService\bin\CulculateAppService.dll.config
+C:\vv\Project\CulculateAppService\CulculateAppService\bin\CulculateAppService.dll
+C:\vv\Project\CulculateAppService\CulculateAppService\bin\CulculateAppService.pdb
+C:\vv\Project\CulculateAppService\CulculateAppService\obj\Debug\CulculateAppService.dll
+C:\vv\Project\CulculateAppService\CulculateAppService\obj\Debug\CulculateAppService.pdb
+C:\vv\Project\CulculateAppService\CulculateAppService\obj\Debug\CulculateAppService.csprojResolveAssemblyReference.cache

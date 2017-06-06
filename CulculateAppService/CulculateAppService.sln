@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CulculateAppService", "CulculateAppService\CulculateAppService.csproj", "{293A6867-4826-4697-BBC7-392B004B9749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormService", "WinFormService\WinFormService.csproj", "{85ED03D1-4297-498B-B668-0965197AC37E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{293A6867-4826-4697-BBC7-392B004B9749} = {293A6867-4826-4697-BBC7-392B004B9749}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCMathService", "MVCMathService\MVCMathService.csproj", "{18E2AD08-6EED-492B-B59A-1306423ECA43}"
+	ProjectSection(ProjectDependencies) = postProject
+		{293A6867-4826-4697-BBC7-392B004B9749} = {293A6867-4826-4697-BBC7-392B004B9749}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{293A6867-4826-4697-BBC7-392B004B9749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293A6867-4826-4697-BBC7-392B004B9749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293A6867-4826-4697-BBC7-392B004B9749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293A6867-4826-4697-BBC7-392B004B9749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85ED03D1-4297-498B-B668-0965197AC37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85ED03D1-4297-498B-B668-0965197AC37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85ED03D1-4297-498B-B668-0965197AC37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85ED03D1-4297-498B-B668-0965197AC37E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E2AD08-6EED-492B-B59A-1306423ECA43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E2AD08-6EED-492B-B59A-1306423ECA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E2AD08-6EED-492B-B59A-1306423ECA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E2AD08-6EED-492B-B59A-1306423ECA43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
